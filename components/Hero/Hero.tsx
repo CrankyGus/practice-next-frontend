@@ -2,7 +2,9 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <div>
+      <img src="images/bg.jpeg" alt="" className=' absolute top-0 left-0'/>
+    </div>
   )
 }
 
