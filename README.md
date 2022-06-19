@@ -1,6 +1,6 @@
 # NextJs Frontend Practices
 
-## Install Package 
+### Install Package 
 
 For NPM 
 
@@ -10,7 +10,7 @@ For Yarn
 
     yarn install
     
-## Dev
+### Dev
 
 For NPM
 
