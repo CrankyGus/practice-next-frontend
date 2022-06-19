@@ -6,7 +6,7 @@ import Navbar from '../components/Navbar/Navbar'
 
 const Home: NextPage = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center py-2">
+    <div className="h-[1000px]">
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
