@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <div className="h-[1000px]">
       <Head>
-        <title>Create Next App</title>
+        <title>Treehub - Homepages</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar/>
