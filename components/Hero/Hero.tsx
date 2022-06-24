@@ -10,10 +10,11 @@ const Hero = () => {
         <img src="images/Hero.png" alt="" className='  absolute top-32 w-[20%] md:w-[15%] md:top-[12rem]' />
       </div>
       <div className=' bg-black h-16'>
-        <div className='flex justify-between items-center text-white px-14 py-5'>
+        <div className='flex flex-row justify-between items-center text-white px-14 py-5'>
           <div className='font-[MinimalBold] text-xl'>
             <p>Fast</p>
-            <p></p>
+            <p>Cheap</p>
+            <div>Hello World VIM!</div>
           </div>
         </div>
       </div>
