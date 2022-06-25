@@ -2,7 +2,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Hero from '../components/Hero/Hero'
 import Navbar from '../components/Navbar/Navbar'
-
+import HomePage from '../components/Home/Home'
 
 const Home: NextPage = () => {
   return (
@@ -11,9 +11,9 @@ const Home: NextPage = () => {
         <title>Treehub - Homepages</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Navbar/>
-      <Hero/>
-     
+      <Navbar />
+      <Hero />
+      <HomePage />
     </div>
   )
 }
